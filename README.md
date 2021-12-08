@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Tanguy 👋
 
-<!--
-**TanguySoto/TanguySoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer from Paris. Have a look around!
 
-Here are some ideas to get you started:
+## Find me on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="Tanguy Soto website" width="27px" src="https://tanguyso.to/favicon.ico" />][website]
+[<img align="left" alt="Tanguy Soto LinkedIn" width="27px" src="https://tanguyso.to/wordpress/wp-content/uploads/2016/02/linkedIn.ico" />][linkedin]
+[<img align="left" alt="TanGames on Google Play" width="27px" src="https://tanguyso.to/wordpress/wp-content/uploads/2017/03/Play-Store-logo.png" />][googleplay]
+
+[website]: https://tanguyso.to
+[linkedin]: https://linkedin.com/in/TanguySoto
+[googleplay]: https://play.google.com/store/apps/dev?id=8739705220760993563
